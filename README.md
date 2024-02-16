@@ -25,3 +25,7 @@ This project utilizes computer vision techniques to analyze a video of a basketb
 
 ## Conclusion
 By analyzing the video using computer vision techniques, this project aims to provide valuable insights into the basketball player's dribbling performance. The extracted metrics, such as dribble count, speed, and consistency, can be used for performance evaluation and improvement.
+
+## Sample Output
+![output](https://github.com/Sarthaksaraf96/Startup-In-Stealth-Mode-Assignment/assets/132260196/887de7c4-215f-44a1-ba6c-fdab6b87d13d)
+
