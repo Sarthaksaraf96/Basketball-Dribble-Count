@@ -1,4 +1,4 @@
-# Basketball Dribble Analysis using Computer Vision
+# Basketball Dribble Count using Computer Vision
 
 ## Introduction
 This project utilizes computer vision techniques to analyze a video of a basketball player performing dribbling drills. The goal is to extract meaningful insights such as dribble count, speed, and consistency using OpenCV in Python.
